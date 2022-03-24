@@ -46,7 +46,7 @@ getSharpsAndFlats (letter, anySFNs) =
   else if (letter == "B" && anySFNs == "#")
     then putStrLn("    "++letter ++ anySFNs ++ " has 12 sharps")
   else 
-    putStrLn("Error in getSharpsAndFlats")
+    putStrLn("ERROR: No condition met in getSharpsAndFlats")
 
   putStrLn("     **terminating**")
 
