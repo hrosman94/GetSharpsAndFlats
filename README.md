@@ -35,3 +35,12 @@ not just the number of sharps and flats.
 allow the user to get the number of sharps and flats for any amount of 
 sharps/flats that they enter in their initial input. For example, if the user 
 would like to know the sharps/flats for C####, they could.
+
+HOW TO USE:
+
+To use, the user can compile the file, run, and then when prompted, enter the
+key of the major scale that they would like to know how many sharps/flats there 
+are. The answer must be valid. I.e., it must consist of 
+
+1) A valid letter, A-G 
+2) Followed by flat for a flat key, N for a natural key, or # for a sharp key.
