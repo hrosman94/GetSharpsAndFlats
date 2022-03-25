@@ -45,16 +45,12 @@ staff paper, because when the order of sharps/flats is exceeded, the list is
 simply cycled through again.
 G# for example would look like:
 
-  FCGDAEB*F*
-  
-  i.e.:
-  
+  FCGDAEB*F*\n
+  i.e.:\n
   *F##*,C#,G#,D#,A#,E#,B#
   
 And Fflat likewise would look like:
 
-  BEADGCF*B*
-  
-  i.e.:
-  
+  BEADGCF*B*\n
+  i.e.:\n
   *Bflatflat*,Eflat,Aflat,Dflat,Gflat,Cflat,Fflat
