@@ -46,11 +46,15 @@ simply cycled through again.
 G# for example would look like:
 
   FCGDAEB*F*
+  
   i.e.:
-  F##,C#,G#,D#,A#,E#,B#
+  
+  *F##,*C#,G#,D#,A#,E#,B#
   
 And Fflat likewise would look like:
 
   BEADGCF*B*
+  
   i.e.:
-  Bflatflat,Eflat,Aflat,Dflat,Gflat,Cflat,Fflat
+  
+  *Bflatflat,*Eflat,Aflat,Dflat,Gflat,Cflat,Fflat
