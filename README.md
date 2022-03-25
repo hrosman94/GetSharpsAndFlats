@@ -49,7 +49,7 @@ G# for example would look like:
   
   i.e.:
   
-  *F##,*C#,G#,D#,A#,E#,B#
+  *F##*,C#,G#,D#,A#,E#,B#
   
 And Fflat likewise would look like:
 
@@ -57,4 +57,4 @@ And Fflat likewise would look like:
   
   i.e.:
   
-  *Bflatflat,*Eflat,Aflat,Dflat,Gflat,Cflat,Fflat
+  *Bflatflat*,Eflat,Aflat,Dflat,Gflat,Cflat,Fflat
