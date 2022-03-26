@@ -59,6 +59,6 @@ And Fflat likewise would look like:
   
   *Bflatflat*,Eflat,Aflat,Dflat,Gflat,Cflat,Fflat
 
-QUICK NOTE: Fflat is only a theoretical key to illustrate the point of recycling 
-through the order of flats, and isn't in fact a commonly used key, since Fflat 
-is equivalent to E.
+QUICK NOTE: keys with double sharps/flats (or more) are merely theoretical keys 
+to illustrate the point of re-cycling through the order of flats, and aren't in 
+fact commonly used keys.
