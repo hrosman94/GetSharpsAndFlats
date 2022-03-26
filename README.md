@@ -58,3 +58,7 @@ And Fflat likewise would look like:
   i.e.:
   
   *Bflatflat*,Eflat,Aflat,Dflat,Gflat,Cflat,Fflat
+
+QUICK NOTE: Fflat is only a theoretical key to illustrate the point of recycling 
+through the order of flats, and isn't in fact a commonly used key, since Fflat 
+is equivalent to E.
